@@ -1,0 +1,3 @@
+C:/github/bwolffleal/Grafo/cmake-build-debug/CMakeFiles/Grafo.dir
+C:/github/bwolffleal/Grafo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/github/bwolffleal/Grafo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
